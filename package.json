@@ -1,0 +1,22 @@
+{
+  "name": "physics_eeg_launch",
+  "version": "1.0.0",
+  "description": "Darth Vader launches back",
+  "main": "tests/example.spec.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "neurosity"
+  ],
+  "author": "Rishabh Shah",
+  "license": "MIT",
+  "dependencies": {
+    "@neurosity/sdk": "^6.5.10",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  }
+}
